@@ -1,11 +1,11 @@
 Simple ToDoList Implementation using React and Typescript.
 
 Core concept here to learn to create and use Type Declaration File: In case of
-this project its ### `types.d.ts`
+this project its `types.d.ts`
 
-Here is the (link of
-Tutorial)[https://typeofnan.dev/your-first-react-typescript-project-todo-app/] I
-followed
+Here is the
+[link of Tutorial](https://typeofnan.dev/your-first-react-typescript-project-todo-app/)
+I followed.
 
 ### `yarn start`
 
